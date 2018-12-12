@@ -1,5 +1,5 @@
 
-# :large_blue_circle: 𝔼𝕄𝕀𝕊𝔼 ℙ𝕐𝕋ℍ𝕆ℕ :large_blue_circle:
+# :heavy_check_mark: 𝔼𝕄𝕀𝕊𝔼 ℙ𝕐𝕋ℍ𝕆ℕ :heavy_check_mark:
 
 
 # :pencil: 
