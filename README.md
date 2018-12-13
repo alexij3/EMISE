@@ -22,8 +22,8 @@
 Дуже зручно було працювати в Jupyter Notebook та скидувати лаби в Google Classroom незалежно чи день це чи ніч.
 
 # :paperclip: Посилання
-<a href="https://colab.research.google.com/drive/1D_QTWzQgy6MT9t7GpYVpQTFya6xO7qMc">:bulb:<b><i>Проведення стандартних емпіричних досліджень та графіки</b></i>:arrow_down_small:</a><br></a><br>
-<a href="https://colab.research.google.com/drive/1p8DVHyyXRAcvQVdT3JfZ55daFQRZzhnX">:arrow_down_small:<b><i>Кореляція Пірсона та регресія</b></i>:arrow_down_small:</a><br>
+<a href="https://colab.research.google.com/drive/1D_QTWzQgy6MT9t7GpYVpQTFya6xO7qMc">:zap:<b><i>Проведення стандартних емпіричних досліджень та графіки</b></i>:zap:</a><br></a><br>
+<a href="https://colab.research.google.com/drive/1p8DVHyyXRAcvQVdT3JfZ55daFQRZzhnX">:zap:<b><i>Кореляція Пірсона та регресія</b></i>:zap:</a><br>
 
 # :thought_balloon: Висновок
 Даний курс показав мені, що таке детальний аналіз даних, як з ними можна по-різному взаємодіяти і те, що за допомогою потужних бібліотек та написання достатньо невеликої кількості коду можна дуже багато чого дослідити.
