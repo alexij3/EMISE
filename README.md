@@ -22,8 +22,8 @@
 Дуже зручно було працювати в Jupyter Notebook та скидувати лаби в Google Classroom незалежно чи день це чи ніч.
 
 # :paperclip: Посилання
-<a href="https://colab.research.google.com/drive/1D_QTWzQgy6MT9t7GpYVpQTFya6xO7qMc">:warning: EMPI Project :warning:</a><br>
-<a href="https://colab.research.google.com/drive/1p8DVHyyXRAcvQVdT3JfZ55daFQRZzhnX">:santa: Інстаграм автора проекту :santa:</a><br>
+<a href="https://colab.research.google.com/drive/1D_QTWzQgy6MT9t7GpYVpQTFya6xO7qMc"><b><i>:arrow_down_small:Проведення стандартних емпіричних досліджень та графіки:arrow_down_small:</b></i></a><br></a><br>
+<a href="https://colab.research.google.com/drive/1p8DVHyyXRAcvQVdT3JfZ55daFQRZzhnX"><b><i>:arrow_down_small:Кореляція Пірсона та регресія:arrow_down_small:</b></i></a><br>
 
 # :thought_balloon: Висновок
 Даний курс показав мені, що таке детальний аналіз даних, як з ними можна по-різному взаємодіяти і те, що за допомогою потужних бібліотек та написання достатньо невеликої кількості коду можна дуже багато чого дослідити.
